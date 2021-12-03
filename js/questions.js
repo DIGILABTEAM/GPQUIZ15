@@ -3,43 +3,43 @@ var data =
 	[
 		[
 			{
-				question: "The most useful tool for evaluation of the condition of a patient with an acute asthmatic attack and in assessing the response to therapy is",
-				option1: "Chest radiography",
-				option2: "Arterial blood gas measurement",
-				option3: "Measurement of pulsus paradoxes",
-				option4: "Measurement of peak expiratory flow or FEV1",
+				question: "16.	Patient with history of COAD and suspected pneumonia. Clinical findings supporting right-sided pneumonia on examination:",
+				option1: "Dull percussion note & increased vocal resonance",
+				option2: "Dull percussion note & decreased vocal resonance",
+				option3: "Decreased air entry",
+				option4: "Tracheal deviation to left",
+				answer: 1
+			},
+			{
+				question: "Which of the following medications is it important to rinse with water and spit after using?",
+				option1: "Albuterol sulfate",
+				option2: "Salmeterol sulfate",
+				option3: "Fluticasone propionate",
+				option4: "Ipratropium",
+				answer: 3
+			},
+			{
+				question: "Which of the following would not be considered a trigger for asthma?",
+				option1: "Dust",
+				option2: "Cold air",
+				option3: "Allergens",
+				option4: "All of the above",
 				answer: 4
 			},
 			{
-				question: "Lung compliance is increased in:",
-				option1: "Pneumonia",
-				option2: "CCF",
-				option3: "Emphysema",
-				option4: "Obesity",
+				question: "Which of the following decreases the risk of exacerbations in asthma?",
+				option1: "Short-acting beta 2-agonists",
+				option2: "Long-acting muscarinic antagonists",
+				option3: "Inhaled corticosteroids",
+				option4: "Long-acting beta 2-agonists",
 				answer: 3
 			},
 			{
-				question: "The development of a pleural effusion would be an unusual complication of",
-				option1: "Streptococcal pneumonia",
-				option2: "Staphylococcal pneumonia",
-				option3: "Mycoplasma pneumonia",
-				option4: "Pneumococcal pneumonia",
-				answer: 3
-			},
-			{
-				question: "Young asthmatic male in emergency department. Resp rate 26/min, pCO2 27, SaO2 92%, struggling, talking in sentences. Given nebulised salbutamol, and ipratropium, 200mg IV hydrocortisone. After 30 minutes - no improvement. Further management: (NEXT step)",
-				option1: "IV salbutamol",
-				option2: "IV aminophylline",
-				option3: "IV magnesium",
-				option4: "Intubate and ventilate",
-				answer: 3
-			},
-			{
-				question: "With regards to obstructive sleep apnoea (OSA), which of the following statements is INCORRECT?",
-				option1: "Hhypoxaemia is the main stimulus to arousal",
-				option2: "Main method of treating this syndrome is with Continuous Positive Airway Pressure (CPAP)",
-				option3: "This syndrome occurs in up to 5% of adults",
-				option4: "This syndrome rarely has an obstructive component",
+				question: "Which of the following has a black box warning for use as monotherapy in asthma?",
+				option1: "Inhaled corticosteroids",
+				option2: "Short-acting beta 2-agonists",
+				option3: "Leukotriene receptor antagonists",
+				option4: "Long-acting beta 2-agonists",
 				answer: 4
 			}
 		]
