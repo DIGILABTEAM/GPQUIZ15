@@ -3,7 +3,7 @@ var data =
 	[
 		[
 			{
-				question: "16.	Patient with history of COAD and suspected pneumonia. Clinical findings supporting right-sided pneumonia on examination:",
+				question: "Patient with history of COAD and suspected pneumonia. Clinical findings supporting right-sided pneumonia on examination:",
 				option1: "Dull percussion note & increased vocal resonance",
 				option2: "Dull percussion note & decreased vocal resonance",
 				option3: "Decreased air entry",
