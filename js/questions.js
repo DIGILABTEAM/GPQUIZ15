@@ -23,7 +23,7 @@ var data =
 				option1: "Dust",
 				option2: "Cold air",
 				option3: "Allergens",
-				option4: "All of the above",
+				option4: "None",
 				answer: 4
 			},
 			{
